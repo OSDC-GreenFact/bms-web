@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bms-web/static/css/main.1415bc91.css",
+    "main.js": "/bms-web/static/js/main.55256ac6.js",
+    "static/js/787.97f136ef.chunk.js": "/bms-web/static/js/787.97f136ef.chunk.js",
+    "static/media/Montserrat-ExtraBold.ttf": "/bms-web/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
+    "static/media/Montserrat-Light.ttf": "/bms-web/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/bms-web/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/main_image.png": "/bms-web/static/media/main_image.65806e5d7a6899773b17.png",
+    "index.html": "/bms-web/index.html",
+    "main.1415bc91.css.map": "/bms-web/static/css/main.1415bc91.css.map",
+    "main.55256ac6.js.map": "/bms-web/static/js/main.55256ac6.js.map",
+    "787.97f136ef.chunk.js.map": "/bms-web/static/js/787.97f136ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1415bc91.css",
+    "static/js/main.55256ac6.js"
+  ]
+}
